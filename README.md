@@ -1,1 +1,1 @@
-# lc1-2020-1
+# Lógica Computacional 1 - turma B
